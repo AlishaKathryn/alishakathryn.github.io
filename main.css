@@ -3,7 +3,7 @@ body {
 }
 
 header {
- background: url(../image1-3.jpg) center / cover;
+ background: url(Images/image1-3.jpg) center / cover;
  height: 60vh;
  justify-content: center;
  text-align: center;
